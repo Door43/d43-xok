@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xok:home|Door43 (xok)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xok|d43-xok repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xok/archive/master.zip|d43-xok.zip]]
+
+**Recent Changes**
+{{changes>ns = xok}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xok|Ethnologue data]]
+
